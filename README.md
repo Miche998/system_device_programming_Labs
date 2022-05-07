@@ -8,4 +8,4 @@ Personal Lab solution of SDP course from Polito's Master Degree in Cybersecurity
 • Skill to understand and implement programs with advanced memory management tachniques, such as dynamic allocation, memory mapping of files, dynamic libraries \
 • Skill to understand and implement concurrent programs based on processes/threads \
 • Skill to understand and implement concurrent programs exploiging \
-• Advanced synchronization, message passing, and data sharing techniques\
+• Advanced synchronization, message passing, and data sharing techniques
