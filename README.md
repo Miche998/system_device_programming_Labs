@@ -1,5 +1,5 @@
 # system_device_programming_Labs
-Personal Lab solution of SDP course from Polito's Master Degree in Cybersecurity (computer engineering).\
+\bPersonal Lab solution of SDP course from Polito's Master Degree in Cybersecurity (computer engineering).\b
 • Knowledge of modern file system organizations and skill to manage file systems and file locking \
 • Knowledge of system programming APIs (system calls) \
 • Skill to understand and implement programs based on system calls\ 
