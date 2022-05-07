@@ -1,0 +1,11 @@
+/home/michele/Documenti/Clion/clion-2021.3.4/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/michele/Documenti/Clion/clion-2021.3.4/bin/ninja/linux/ninja -G Ninja /home/michele/Documenti/lab_clion/lab_04/ex02
+-- Looking for pthread.h
+-- Looking for pthread.h - found
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Failed
+-- Check if compiler accepts -pthread
+-- Check if compiler accepts -pthread - yes
+-- Found Threads: TRUE  
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/michele/Documenti/lab_clion/lab_04/ex02/cmake-build-debug
