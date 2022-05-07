@@ -1,0 +1,3 @@
+/home/michele/Documenti/lab_clion/lab_03/ex_02/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/michele/Documenti/lab_clion/lab_03/ex_02/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/michele/Documenti/lab_clion/lab_03/ex_02/cmake-build-debug/CMakeFiles/ex_02.dir
