@@ -1,0 +1,3 @@
+/home/michele/Documenti/git_labs/system_device_programming_Labs/Labs/lab_05/ex_05_B/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/michele/Documenti/git_labs/system_device_programming_Labs/Labs/lab_05/ex_05_B/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/michele/Documenti/git_labs/system_device_programming_Labs/Labs/lab_05/ex_05_B/cmake-build-debug/CMakeFiles/ex_05_B.dir
