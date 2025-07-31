@@ -1,16 +1,28 @@
-# system_device_programming_Labs
-<h3>Personal Lab solution of SDP course from Polito's Master Degree in Cybersecurity (computer engineering).</h3><br>
+# 🛠️ System & Device Programming Labs
 
-<h4>Expected Learning Outcomes</h4>
+📚 Personal lab solutions from the **System & Device Programming (SDP)** course at Politecnico di Torino, part of the Master’s Degree in Cybersecurity (Computer Engineering).
 
-<ul>
-<li>  Knowledge of modern file system organizations and skill to manage file systems and file locking </li>
-<li>  Knowledge of system programming APIs (system calls) </li>
-<li>  Skill to understand and implement programs based on system calls </li>
-<li>  Skill to understand and implement programs with advanced file system interactions, such as sequential, random and/or shared file access, and directory manipulation </li>
-<li>  Skill to understand and implement reliable/robust programs exploiting exception and signal handling </li>
-<li>  Skill to understand and implement programs with advanced memory management tachniques, such as dynamic allocation, memory mapping of files, dynamic libraries </li>
-<li>  Skill to understand and implement concurrent programs based on processes/threads </li>
-<li>  Skill to understand and implement concurrent programs exploiging </li>
-<li>  Advanced synchronization, message passing, and data sharing techniques </li>
-</ul>
+---
+
+## 🚀 Repository Overview
+
+This repository contains a collection of lab exercises written in C, focusing on low-level system programming under Linux. Covered topics include:
+
+- File system access and locking
+- POSIX system calls
+- Process and thread-based concurrency
+- Signal and exception handling
+- Dynamic memory allocation and memory-mapped files
+- Advanced synchronization and inter-process communication (IPC)
+
+---
+
+## 📁 Project Structure
+
+```bash
+system_device_programming_Labs/
+├── Labs/
+│   ├── Lab01/
+│   ├── Lab02/
+│   └── ...
+└── README.md
