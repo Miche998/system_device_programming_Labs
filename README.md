@@ -18,11 +18,15 @@ This repository contains a collection of lab exercises written in C, focusing on
 ---
 
 ## 📁 Project Structure
+system_device_programming_Labs/<br>
+├── Labs/<br>
+│ ├── [01 - File System Operations](./Labs/lab_01)<br>
+│ ├── [02 - Advanced File I/O](./Labs/lab_02)<br>
+│ ├── [03 - File and File-system Advanced I/O](./Labs/lab_03)<br>
+│ ├── [04 - Binary Files & Multi-threaded Programming](./Labs/lab_04)<br>
+│ └── [05 - Advanced I/O and Concurrent Programming](./Labs/lab_05)<br>
+└── [README.md](./README.md)<br>
 
-```bash
-system_device_programming_Labs/
-├── Labs/
-│   ├── Lab01/
-│   ├── Lab02/
-│   └── ...
-└── README.md
+
+
+
