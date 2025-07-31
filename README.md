@@ -1,6 +1,6 @@
 # 🛠️ System & Device Programming Labs
 
-📚 Personal lab solutions from the **System & Device Programming (SDP)** course at Politecnico di Torino, part of the Master’s Degree in Cybersecurity (Computer Engineering).
+📚 Personal lab solutions from the **System & Device Programming (SDP)** course at Politecnico di Torino, part of the Master’s Degree in Cybersecurity (Computer Engineering AY 2021/2022).
 
 ---
 
